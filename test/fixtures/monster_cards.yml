@@ -1,0 +1,27 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  monster_ID: 1
+  name: MyString
+  description: MyString
+  atk: 1.5
+  def: 1.5
+  level: 
+  scale: 
+  linkval: 1
+  race: one
+  attribute: one
+  type: one
+
+two:
+  monster_ID: 1
+  name: MyString
+  description: MyString
+  atk: 1.5
+  def: 1.5
+  level: 
+  scale: 
+  linkval: 1
+  race: two
+  attribute: two
+  type: two
