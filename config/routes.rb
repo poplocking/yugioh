@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  get 'about/index'
   get 'traps/index'
   get 'traps/show'
   get 'spells/index'
